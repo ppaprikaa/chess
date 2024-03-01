@@ -1,0 +1,18 @@
+{
+	"window": {
+		"base_resolution": {
+			"x": 128,
+			"y": 128
+		},
+		"target_resolution": {
+			"x": 640,
+			"y": 480
+		},
+		"tile_size": {
+			"x": 16,
+			"y": 16
+		},
+		"fullscreen": false
+	},
+	"FPS": 60
+}
